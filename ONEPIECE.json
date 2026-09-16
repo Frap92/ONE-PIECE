@@ -10,9 +10,7 @@
       "volume": "",
       "last_updated": "1789564992",
       "groups": {
-        "": [
-          "https://cdn.imgchest.com/files/2ff9a8f31b59.png"
-        ]
+        "": "/proxy/api/imgchest/chapter/vj4jb2rw978"
       }
     },
     "1193": {
@@ -38,14 +36,6 @@
           "https://imgur.com/29x9Z1J",
           "https://imgur.com/yrRKbtd"
         ]
-      }
-    },
-    "1194": {
-      "title": "1194",
-      "volume": "",
-      "last_updated": "1789565225",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4jb2rw978 "
       }
     }
   }
