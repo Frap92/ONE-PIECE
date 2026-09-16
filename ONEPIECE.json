@@ -4,16 +4,5 @@
   "artist": "",
   "author": "Eiichiro Oda",
   "cover": "",
-  "chapters": {
-    "1193": {
-      "title": "1193",
-      "volume": "117",
-      "last_updated": "1789551135",
-      "groups": {
-        "OP": [
-          "https://imgchest.com/p/lqyeep8vxyd"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
